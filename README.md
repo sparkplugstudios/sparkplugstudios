@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Welcome to my Github! Everything you will find here is just for fun so enjoy :)
+
 <!--
 **sparkplugstudios/sparkplugstudios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
